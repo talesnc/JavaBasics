@@ -1,8 +1,10 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class CurrencySplitter {
     public static void main(String[] args){
         Scanner reader = new Scanner(System.in);
+        reader.useLocale(Locale.US);
         double Total = reader.nextDouble();
         int notes = (int) Total;
         int coins = (int) ((Total - notes) * 100);

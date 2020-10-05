@@ -6,7 +6,7 @@ Repositório da disciplina de programação 2 do período 2020.2 do Curso de SI 
 
 [1. Tipos primitivos](Content/TiposPrimitivos.md)
 
-[2. Operadores]
+[2. Operadores](Content/Operadores.md)
 
 [3. Estruturas condicionais]
 

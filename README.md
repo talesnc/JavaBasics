@@ -12,7 +12,7 @@ Repositório da disciplina de programação 2 do período 2020.2 do Curso de SI 
 
 [4. Estruturas de repetição](Content/EstruturasDeRepeticao.md)
 
-[5. Classes e objetos]
+[5. Classes e objetos](Content/ClassesEObjetos.md)
 
 &nbsp; - [Variáveis de instância e de classe]
 

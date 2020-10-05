@@ -20,4 +20,4 @@ Repositório da disciplina de programação 2 do período 2020.2 do Curso de SI 
 
 &nbsp; - [Strings](Content/Strings.md)
 
-&nbsp; - [Array]
+&nbsp; - [Array](Content/Arrays.md)

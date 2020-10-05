@@ -14,9 +14,9 @@ Repositório da disciplina de programação 2 do período 2020.2 do Curso de SI 
 
 [5. Classes e objetos].
 
-&nbsp; - [5.1. Variáveis de instância e de classe].
+&nbsp; - [Variáveis de instância e de classe].
 
-&nbsp; - [5.2. Encapsulamento].
+&nbsp; - [Encapsulamento].
 
 &nbsp; - [String].
 

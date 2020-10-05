@@ -4,19 +4,19 @@ São armazenados diretamente na memória.
 
  - Os tipos primitivos sao:
  
-  - Inteiro
+    - Inteiro
   
     É representado por valores numéricos inteiros, positivos ou negativos, sem um componente fracional;
     
-  - Ponto Flutuante
+    - Ponto Flutuante
   
     É representado por valores numéricos reais, positivos ou negativos, com componente fracional;
     
-  - Lógico
+    - Lógico
   
     É representado por valores booleanos, podendo assumir o estado de VERDADEIRO ou FALSO;
     
-  - Textual
+    - Textual
   
     É representado por um agrupamento de um ou mais caracteres, inseridos dentro de aspas duplas;
     

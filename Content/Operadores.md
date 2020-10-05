@@ -4,7 +4,9 @@
 
 ### Aritiméticos
 
-Através dos operadores básicos aritiméticos são realizadas as operações fundamentais da matemática. São eles: +, -, *, /, %.
+Através dos operadores básicos aritiméticos são realizadas as operações fundamentais da matemática.
+
+    - São eles: **+, -, *, /, %**
 
 ```java
 int a = 5 + 5;      //o valor de a será 10
@@ -40,7 +42,7 @@ int e = --a;          //a é decrementado (10), e depois a é atribuído para d 
 
 Os operadores relacionais e de igualdade avaliam dois operandos e retornam um valor booleano.
 
-São eles: ** <, >, <=, >=,, ==, !=
+    - São eles: ** <, >, <=, >=,, ==, != **
 
 ```java
 int a = 10, b = 15, c = 5, d = 10;
@@ -68,7 +70,7 @@ res4 = a==10;             //res4 é true
 
 Os operadores lógicos permitem a criação de expressões lógicas mais complexas.
 
-São eles: ** &&, ||
+    - São eles: ** &&, || **
 
 ```java
 boolean v1 = true;
@@ -82,7 +84,7 @@ v3 = v1 || v2;            //v3 é true
 
 Tem o mesmo efeito de um comando condicional if-else
 
-Representado por: ** ?  :
+    - Representado por: ** ?  : **
 
 ```java
 int altura = 180;
@@ -100,7 +102,7 @@ else
 
 Os operadores de atribuição são utilizados para definir o valor inicial ou sobrescrever o valor de uma variável.
 
-São eles: ** =, +=, -=, *=, /=, %=, &=, ^=, |=
+    - São eles: ** =, +=, -=, *=, /=, %=, &=, ^=, |= **
 
 ```java
 int idade = 18;   

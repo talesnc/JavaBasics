@@ -14,7 +14,7 @@ Repositório da disciplina de programação 2 do período 2020.2 do Curso de SI 
 
 [5. Classes e objetos](Content/ClassesEObjetos.md)
 
-&nbsp; - [Variáveis de instância e de classe]
+&nbsp; - [Variáveis de instância e de classe](Content/VariaveisDeInstanciaEDeClasse.md)
 
 &nbsp; - [Encapsulamento]
 

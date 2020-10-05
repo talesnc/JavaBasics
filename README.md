@@ -16,7 +16,7 @@ Repositório da disciplina de programação 2 do período 2020.2 do Curso de SI 
 
 &nbsp; - [Variáveis de instância e de classe](Content/VariaveisDeInstanciaEDeClasse.md)
 
-&nbsp; - [Encapsulamento]
+&nbsp; - [Encapsulamento](Content/Encapsulamento.md)
 
 &nbsp; - [String]
 

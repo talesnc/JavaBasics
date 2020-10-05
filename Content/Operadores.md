@@ -42,7 +42,7 @@ int e = --a;          //a é decrementado (10), e depois a é atribuído para d 
 
 Os operadores relacionais e de igualdade avaliam dois operandos e retornam um valor booleano.
 
-  - São eles: <, >, <=, >=,, ==, !=
+  - São eles: <, >, <=, >=, ==, !=
 
 ```java
 int a = 10, b = 15, c = 5, d = 10;

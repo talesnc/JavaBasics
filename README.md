@@ -4,20 +4,20 @@ Repositório da disciplina de programação 2 do período 2020.2 do Curso de SI 
 
 ## RoadMap
 
-[1. Tipos primitivos].
+[1. Tipos primitivos] (Content/Tipos%Primitivos.md)
 
-[2. Operadores].
+[2. Operadores]
 
-[3. Estruturas condicionais].
+[3. Estruturas condicionais]
 
-[4. Estruturas de repetição].
+[4. Estruturas de repetição]
 
-[5. Classes e objetos].
+[5. Classes e objetos]
 
-&nbsp; - [Variáveis de instância e de classe].
+&nbsp; - [Variáveis de instância e de classe]
 
-&nbsp; - [Encapsulamento].
+&nbsp; - [Encapsulamento]
 
-&nbsp; - [String].
+&nbsp; - [String]
 
-&nbsp; - [Array].
+&nbsp; - [Array]

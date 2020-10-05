@@ -10,7 +10,7 @@ Repositório da disciplina de programação 2 do período 2020.2 do Curso de SI 
 
 [3. Estruturas condicionais](Content/EstruturasCondicionais.md)
 
-[4. Estruturas de repetição]
+[4. Estruturas de repetição](Content/EstruturasDeRepeticao.md)
 
 [5. Classes e objetos]
 

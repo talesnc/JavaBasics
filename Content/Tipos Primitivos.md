@@ -5,15 +5,19 @@ São armazenados diretamente na memória.
  - Os tipos primitivos sao:
  
   - Inteiro
+  
     É representado por valores numéricos inteiros, positivos ou negativos, sem um componente fracional;
     
   - Ponto Flutuante
+  
     É representado por valores numéricos reais, positivos ou negativos, com componente fracional;
     
   - Lógico
+  
     É representado por valores booleanos, podendo assumir o estado de VERDADEIRO ou FALSO;
     
   - Textual
+  
     É representado por um agrupamento de um ou mais caracteres, inseridos dentro de aspas duplas;
     
 ## Tipos numéricos
@@ -49,7 +53,7 @@ São armazenados diretamente na memória.
 ## Tipos textuais
 
   - char: 
-    - armazena um caractere, como 'a', 'b', ..., 'z', você pode usar o tipo char. Ele é armazenado em 2 bytes.
+    - Armazena um caractere, como 'a', 'b', ..., 'z', você pode usar o tipo char. Ele é armazenado em 2 bytes.
 
   - String: 
     - **String não é um tipo primitivo, string é um objeto**;

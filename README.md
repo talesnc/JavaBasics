@@ -4,7 +4,7 @@ Repositório da disciplina de programação 2 do período 2020.2 do Curso de SI 
 
 ## RoadMap
 
-[1. Tipos primitivos](content/Tipos%Primitivos.md)
+[1. Tipos primitivos](Content/TiposPrimitivos.md)
 
 [2. Operadores]
 

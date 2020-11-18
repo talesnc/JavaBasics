@@ -2,7 +2,7 @@
 
 A escrita de código duplicado é malquista pelos programadores.
 Código duplicado é ruim porque sempre que houver alguma mudança em um determinado algoritmo, o programador deverá procurar ocorrências daquele algoritmo em seu programa e realizar a mudança.
-No mundo do desenvolvimento de software, **mudança é quase uma certeza**.
+No mundo do desenvolvimento de software, **o processo de mudança, é quase uma certeza**.
 Os programadores têm alguma resistência em realizar mudanças em seu programa, por causa do retrabalho.
 Mas a mudança do código do programa vai acontecer com certa frequência.
 Programas mudam porque:

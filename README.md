@@ -24,3 +24,4 @@ Repositório da disciplina de programação 2 do período 2020.2 do Curso de SI 
 
 &nbsp; - [Listas](Content/Listas.md)
 
+[6. Reúso](Content/Reúso.md)

@@ -22,5 +22,5 @@ Repositório da disciplina de programação 2 do período 2020.2 do Curso de SI 
 
 &nbsp; - [Arrays](Content/Arrays.md)
 
-&nbsp; - [Arrays](Content/Listas.md)
+&nbsp; - [Listas](Content/Listas.md)
 

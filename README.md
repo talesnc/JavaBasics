@@ -1,6 +1,6 @@
-# Prog2
+# JavaBasics
 
-Repositório da disciplina de programação 2 do período 2020.2 do Curso de SI da UniFacisa.
+Repositório de conhecimentos básicos em Java, referente ao que foi aprendido da disciplina de programação 2 do período 2020.2 do Curso de SI da UniFacisa.
 
 ## RoadMap
 
